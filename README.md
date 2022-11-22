@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 <!-- 기술 스택 box -->
 <div align=center>
     <!-- box name -->
@@ -8,31 +7,29 @@
     <!-- java -->
     <img src="https://img.shields.io/badge/JAVA-orange" />
     <!-- SpringBoot -->
-    <img src="https://img.shields.io/badge/SpringBoot-green" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F" />
     <!-- Spring MVC -->
-    <img src="https://img.shields.io/badge/SpringMVC-peagreen" />
+    <img src="https://img.shields.io/badge/SpringMVC-green" />
     <!-- JPA -->
     <img src="https://img.shields.io/badge/JPA-black" />
     <!-- MyBatis -->
-    <img src="https://img.shields.io/badge/MyBatis-yellogreen" />
+    <img src="https://img.shields.io/badge/MyBatis-ECD53F" />
     <!-- Mysql -->
-    <img src="https://img.shields.io/badge/Mysql-navyblue" />
+    <img src="https://img.shields.io/badge/Mysql-4479A1" />
     <!-- MaraiDB -->
-    <img src="https://img.shields.io/badge/MaraiDB-blackblue" />
+    <img src="https://img.shields.io/badge/MaraiDB-003545" />
     <!-- AWS -->
-    <img src="https://img.shields.io/badge/AWS_EC2-Khaki" />
+    <img src="https://img.shields.io/badge/AWS_EC2-FF9900" />
 </div>
 <!-- tool box -->
-<div>
+<div align=center>
     <!-- IntelliJ -->
-    <img src="https://img.shields.io/badge/IntelliJ-lemon" />
+    <img src="https://img.shields.io/badge/IntelliJ-000000" />
     <!-- VS Code -->
-    <img src="https://img.shields.io/badge/VS Code-Ocher" />
+    <img src="https://img.shields.io/badge/VS_Code-ECD53F" />
     <!-- Git -->
-    <img src="https://img.shields.io/badge/Git-wine" />
+    <img src="https://img.shields.io/badge/Git-F05032" />
 </div>
-
-
 
 
 <!--
