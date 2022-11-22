@@ -1,5 +1,8 @@
-# Hi, I'm Ho Jin 
-## I wanna become a special developer 👋
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=Welcome&fontSize=50)
+
+# Hi, I'm Ho Jin  
+## I wanna become a challenging developer:rocket:
+
 
 <!-- 기술 스택 box -->
 <div align=center>
@@ -30,6 +33,13 @@
     <img src="https://img.shields.io/badge/VS_Code-ECD53F" />
     <!-- Git -->
     <img src="https://img.shields.io/badge/Git-F05032" />
+</div>
+
+<!-- 이력서 boxx -->
+<div>
+    <h3>
+    :link: My resume <a href="https://puzzled-detail-b29.notion.site/48d0b511fa46449d80c3d8fcbcd254a6">Click</a>
+    </h3>
 </div>
 
 
