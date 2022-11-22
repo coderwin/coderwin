@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I'm Ho Jin 
+## I wanna become a special developer 👋
 
 <!-- 기술 스택 box -->
 <div align=center>
