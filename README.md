@@ -37,9 +37,9 @@
 
 <!-- 이력서 boxx -->
 <div>
-    <h3>
+    <h2>
     :link: My resume <a href="https://puzzled-detail-b29.notion.site/48d0b511fa46449d80c3d8fcbcd254a6">Click</a>
-    </h3>
+    </h2>
 </div>
 
 
