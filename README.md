@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!-- 기술 스택 box -->
 <div align=center>
     <!-- box name -->
@@ -7,29 +8,32 @@
     <!-- java -->
     <img src="https://img.shields.io/badge/JAVA-orange" />
     <!-- SpringBoot -->
-    <img src="https://img.shields.io/badge/SpringBoot-#6DB33F" />
+    <img src="https://img.shields.io/badge/SpringBoot-green" />
     <!-- Spring MVC -->
-    <img src="https://img.shields.io/badge/SpringMVC-green" />
+    <img src="https://img.shields.io/badge/SpringMVC-peagreen" />
     <!-- JPA -->
     <img src="https://img.shields.io/badge/JPA-black" />
     <!-- MyBatis -->
-    <img src="https://img.shields.io/badge/MyBatis-#ECD53F" />
+    <img src="https://img.shields.io/badge/MyBatis-yellogreen" />
     <!-- Mysql -->
-    <img src="https://img.shields.io/badge/Mysql-#4479A1" />
+    <img src="https://img.shields.io/badge/Mysql-navyblue" />
     <!-- MaraiDB -->
-    <img src="https://img.shields.io/badge/MaraiDB-#003545" />
+    <img src="https://img.shields.io/badge/MaraiDB-blackblue" />
     <!-- AWS -->
-    <img src="https://img.shields.io/badge/AWS-#FF9900" />
+    <img src="https://img.shields.io/badge/AWS_EC2-Khaki" />
 </div>
 <!-- tool box -->
 <div>
     <!-- IntelliJ -->
-    <img src="https://img.shields.io/badge/IntelliJ-#000000" />
+    <img src="https://img.shields.io/badge/IntelliJ-lemon" />
     <!-- VS Code -->
-    <img src="https://img.shields.io/badge/VS Code-#ECD53F" />
+    <img src="https://img.shields.io/badge/VS Code-Ocher" />
     <!-- Git -->
-    <img src="https://img.shields.io/badge/Git-#F05032" />
+    <img src="https://img.shields.io/badge/Git-wine" />
 </div>
+
+
+
 
 <!--
 **coderwin/coderwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
