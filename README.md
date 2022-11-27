@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=Welcome&fontSize=50)
 
 # Hi, I'm Ho Jin  
-## I wanna become a challenging developer:rocket:
+## I wanna become a challenging backend developer:rocket:
 
 
 <!-- 기술 스택 box -->
