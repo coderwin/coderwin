@@ -20,6 +20,8 @@
     <img src="https://img.shields.io/badge/MyBatis-ECD53F" />
     <!-- Mysql -->
     <img src="https://img.shields.io/badge/Mysql-4479A1" />
+    <!-- Oracle -->
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     <!-- MaraiDB -->
     <img src="https://img.shields.io/badge/MaraiDB-003545" />
     <!-- AWS -->
@@ -36,11 +38,13 @@
 </div>
 
 <!-- 이력서 boxx -->
+<!--
 <div>
     <h2>
     :link: My resume <a href="https://puzzled-detail-b29.notion.site/48d0b511fa46449d80c3d8fcbcd254a6">Click</a>
     </h2>
 </div>
+-->
 
 
 <!--
