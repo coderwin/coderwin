@@ -21,7 +21,7 @@
     <!-- Mysql -->
     <img src="https://img.shields.io/badge/Mysql-4479A1" />
     <!-- Oracle -->
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F8000" />
     <!-- MaraiDB -->
     <img src="https://img.shields.io/badge/MaraiDB-003545" />
     <!-- AWS -->
