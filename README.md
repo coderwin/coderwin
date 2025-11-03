@@ -24,8 +24,15 @@
     <img src="https://img.shields.io/badge/Oracle-F8000" />
     <!-- MaraiDB -->
     <img src="https://img.shields.io/badge/MaraiDB-003545" />
+    <!-- Docker -->
+    <img src="https://img.shields.io/badge/Docker-003545" />
     <!-- AWS -->
     <img src="https://img.shields.io/badge/AWS_EC2-FF9900" />
+    <img src="https://img.shields.io/badge/AWS_Route 53-FF9900" />
+    <img src="https://img.shields.io/badge/AWS_S3-FF9900" />
+    <img src="https://img.shields.io/badge/AWS_RDS-FF9900" />
+    <img src="https://img.shields.io/badge/AWS_ECR-FF9900" />
+    <img src="https://img.shields.io/badge/AWS_CodeDeploy-FF9900" />
 </div>
 <!-- tool box -->
 <div align=center>
@@ -35,6 +42,8 @@
     <img src="https://img.shields.io/badge/VS_Code-ECD53F" />
     <!-- Git -->
     <img src="https://img.shields.io/badge/Git-F05032" />
+    <!-- Git -->
+    <img src="https://img.shields.io/badge/Github_Actions-F05032" />
 </div>
 
 <!-- 이력서 boxx -->
